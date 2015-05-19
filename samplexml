@@ -1,0 +1,10 @@
+<vnfd>
+ <vdus>
+  <network>
+   <network_name>oam</network_name>
+  </network>
+  <network>
+   <network_name>management</network_name>
+  </network>
+ </vdus>
+</vnfd>
